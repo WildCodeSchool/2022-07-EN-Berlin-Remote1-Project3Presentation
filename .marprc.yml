@@ -1,0 +1,10 @@
+allowLocalFiles: true
+author: "Orwa Diraneyya"
+description: "Slide template for the DDP/DSSIPD modules in the CR Masters program at RWTH Aachen University"
+html: true
+bespoke:
+  progress: true
+options:
+  looseYAML: false
+  inlineSVG: false
+  minifyCSS: false

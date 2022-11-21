@@ -7,7 +7,7 @@ paginate: true
 _paginate: false
 ---
 
-![bg](./assets/gradient.jpg)
+![bg](./assets/logo.jpg)
 
 # <!--fit--> Marp CLI example
 
