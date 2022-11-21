@@ -42,7 +42,8 @@ kbd {
 }
 </style>
 
-![](./assets/logo.png){.float-right}
+![](./assets/wcs.png){.float-right}
+![](./assets/remondis.png){.float-right}
 # Project 3 Final Presentation | WCS & REMONDIS group
 ## Orwa & his students
 
@@ -52,24 +53,22 @@ kbd {
 
 # Organization
 
+This presentation is a work in progress.
+
 ---
 
-# 1 A title
+# Real (backend-connected) functionality
 
-- [x] Something
-- [x] Something
-- [x] Something
-- [x] Something
-- [x] Something
+- [x] Signup, and forget password
+- [x] Login and logout
+- [x] Change user information
+- [x] Create/close cases
+- [x] Edit cases: information, details (without rooms/images), inspector
 ---
-# 2 Something
+# 2 Mocked (in-memory) functionality
 
-#### BACKSTORY
-
-> Lorem ipsum
-
-> Lorem ipsum
-
-> Lorem ipsum
+- [x] Edit cases: rooms and images
+- [x] Accept case
+- [x] Submit case
 
 ---
