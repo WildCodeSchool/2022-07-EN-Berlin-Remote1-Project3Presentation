@@ -65,7 +65,7 @@ This presentation is a work in progress.
 - [x] Create/close cases
 - [x] Edit cases: information, details (without rooms/images), inspector
 ---
-# 2 Mocked (in-memory) functionality
+# Mocked (in-memory) functionality
 
 - [x] Edit cases: rooms and images
 - [x] Accept case
