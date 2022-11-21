@@ -1,75 +1,75 @@
 ---
 marp: true
-title: Marp CLI example
-description: Hosting Marp slide deck on the web
-theme: uncover
-paginate: true
-_paginate: false
+title: Project 3 Final Presentation (WCS & REMONDIS group)
+description: Final Deliverables of the Project
+author: Orwa M. Diraneyya (@odiraneyya)
+url: https://wildcodeschool.github.io/2022-07-EN-Berlin-Remote1-Project3Presentation/
+image: ./og-image.png
 ---
 
-![bg](./assets/logo.jpg)
+<style>
+img[alt~="center"], .center, .fence {
+  display: block;
+  margin: 0 auto;
+}
+kbd {
+    background-color: #eee;
+    border-radius: 3px;
+    border: 1px solid #b4b4b4;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .2), 0 2px 0 0 rgba(255, 255, 255, .7) inset;
+    color: #333;
+    display: inline-block;
+    font-size: .85em;
+    font-weight: 700;
+    line-height: 1;
+    padding: 2px 4px;
+    white-space: nowrap;
+}
+.float-right {
+    float: right;
+}
+.fence img {
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    max-height: 100%;
+}
+.margin-top {
+    margin-top: 1em;
+}
+.padding-top {
+    padding-top: 1em;
+}
+</style>
 
-# <!--fit--> Marp CLI example
+![](./assets/logo.png){.float-right}
+# Project 3 Final Presentation | WCS & REMONDIS group
+## Orwa & his students
 
-Hosting Marp slide deck on the web
-
-https://github.com/yhatt/marp-cli-example
-
-<style scoped>a { color: #eee; }</style>
-
-<!-- This is presenter note. You can write down notes through HTML comment. -->
-
----
-
-![Marp bg 60%](https://raw.githubusercontent.com/marp-team/marp/master/marp.png)
-
----
-
-<!-- _backgroundColor: "#123" -->
-<!-- _color: "#fff" -->
-
-##### <!--fit--> [Marp CLI](https://github.com/marp-team/marp-cli) + [GitHub Pages](https://github.com/pages) | [Netlify](https://www.netlify.com/) | [Vercel](https://vercel.com/)
-
-##### <!--fit--> 👉 The easiest way to host<br />your Marp deck on the web
-
----
-
-![bg right 60%](https://icongr.am/octicons/mark-github.svg)
-
-## **[GitHub Pages](https://github.com/pages)**
-
-#### Ready to write & host your deck!
-
-[![Use this as template h:1.5em](https://img.shields.io/badge/-Use%20this%20as%20template-brightgreen?style=for-the-badge&logo=github)](https://github.com/yhatt/marp-cli-example/generate)
-
----
-
-![bg right 60%](https://icongr.am/simple/netlify.svg?colored)
-
-## **[Netlify](https://www.netlify.com/)**
-
-#### Ready to write & host your deck!
-
-[![Deploy to Netlify h:1.5em](./assets/netlify-deploy-button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yhatt/marp-cli-example)
+> Link to [planning repository](https://github.com/WildCodeSchool/2022-07-EN-Berlin-Remote1-Project3Planning) on GitHub
 
 ---
 
-![bg right 60%](https://icongr.am/simple/zeit.svg)
-
-## **[Vercel](https://vercel.com/)**
-
-#### Ready to write & host your deck!
-
-[![Deploy to Vercel h:1.5em](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/yhatt/marp-cli-example)
+# Organization
 
 ---
 
-### <!--fit--> :ok_hand:
+# 1 A title
+
+- [x] Something
+- [x] Something
+- [x] Something
+- [x] Something
+- [x] Something
+---
+# 2 Something
+
+#### BACKSTORY
+
+> Lorem ipsum
+
+> Lorem ipsum
+
+> Lorem ipsum
 
 ---
-
-![bg 40% opacity blur](https://avatars1.githubusercontent.com/u/3993388?v=4)
-
-### Created by Yuki Hattori ([@yhatt](https://github.com/yhatt))
-
-https://github.com/yhatt/marp-cli-example
